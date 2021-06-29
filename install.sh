@@ -19,7 +19,7 @@ else
     arch="386"
 fi
 
-url="https://github.com/commander-cli/commander/releases/download/$COMMANDER_VER/commander-linux-$arch"
+url="https://github.com/dylanhitt/commander/releases/download/$COMMANDER_VER/commander-linux-$arch"
 
 echo "Downloading $url"
 curl -L "$url" -o "$INSTALL_LOC"

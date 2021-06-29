@@ -17,7 +17,7 @@ dist: trusty
 before_install:
   - go get -u golang.org/x/lint/golint
   - make deps
-  - curl -L https://github.com/commander-cli/commander/releases/download/v0.3.0/commander-linux-amd64 -o ~/bin/commander
+  - curl -L https://github.com/dylanhitt/commander/releases/download/v0.3.0/commander-linux-amd64 -o ~/bin/commander
   - chmod +x ~/bin/commander
 
 jobs:

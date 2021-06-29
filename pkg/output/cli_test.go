@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/commander-cli/commander/v2/pkg/runtime"
+	"github.com/dylanhitt/commander/v2/pkg/runtime"
 	"github.com/stretchr/testify/assert"
 )
 
