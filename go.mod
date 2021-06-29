@@ -1,4 +1,4 @@
-module github.com/commander-cli/commander/v2
+module github.com/dylanhitt/commander/v2
 
 go 1.16
 
